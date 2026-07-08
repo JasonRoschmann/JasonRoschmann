@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Automation-Builder · Vertriebs-DNA</b><br>
-  Ich baue KI-Automation, die in Produktion läuft. Allein, Ende zu Ende.
+  Ich baue komplette KI-Systeme, die in Produktion laufen. Allein, Ende zu Ende.
 </p>
 
 <p align="center">
@@ -16,17 +16,19 @@
 
 ### Wer ich bin
 
-Vier Jahre B2B-Direktvertrieb, rund 8.000 Gespräche mit Entscheidern. Danach der Wechsel ans Bauen. Seit 2024 entwickle ich eigenständig KI-Systeme und bringe sie in Produktion: Ich spezifiziere, entwerfe die Architektur, orchestriere die Modelle und prüfe das Ergebnis selbst. So liefere ich allein, wofür sonst ein kleines Team nötig wäre, und kann jedes System nicht nur bauen, sondern beim Kunden auch aufnehmen und erklären.
+Vier Jahre B2B-Direktvertrieb, rund 8.000 Gespräche mit Entscheidern. Danach der Wechsel ans Bauen. Seit 2024 entwickle ich eigenständig große, zusammenhängende KI-Systeme und bringe sie in Produktion: Ich spezifiziere, entwerfe die Architektur, orchestriere die Modelle und prüfe das Ergebnis selbst. So liefere ich allein, wofür sonst ein kleines Team nötig wäre, und kann jedes System nicht nur bauen, sondern beim Kunden auch aufnehmen und erklären.
 
 ### Was ich baue
 
-**GEO-Scanner** &nbsp;·&nbsp; Misst, ob und wie eine Marke in den Antworten von ChatGPT, Perplexity und Gemini auftaucht. Python, FastAPI, angebunden über die Claude-API und das Model-Context-Protocol. **35 von 35 Tests grün, 19 davon live gegen echte Endpunkte.**
+Komplette Systeme, keine Einzelteile. Web, Commerce, Content und KI-Automation als eine zusammenhängende Pipeline, statt lose verdrahteter Tools.
 
-**Multi-Agenten-Recherche** &nbsp;·&nbsp; Ein System, das Firmen live recherchiert und Materialien faktenprüft, statt zu halluzinieren. Governance und Freigabe-Gates vor jeder Aktion.
+**Web- & Commerce-Studio** &nbsp;·&nbsp; Shopify-Stores mit eigenen Liquid-Themes, dazu Sichtbarkeit (SEO/GEO), Webdesign und Conversion als ein System gedacht. Gebaut, nicht geklickt.
 
-**Commerce & Content-Automation** &nbsp;·&nbsp; Shopify-Stores mit eigenen Liquid-Themes und automatisierte Bild-/Video-Pipelines für den DACH-Raum. Gebaut statt geklickt.
+**KI-Automation** &nbsp;·&nbsp; Multi-Agenten-Pipelines, die live recherchieren, Fakten prüfen, Inhalte sowie Bild und Video produzieren und mit Freigabe-Gates ausspielen. Governance vor jeder Aktion.
 
-> Die Produktionssysteme laufen als Eigen- und Kundenprojekte. Anklickbare Fallstudien im **[interaktiven CV](https://jasonroschmann.github.io/cv)**.
+**Eigene Infrastruktur** &nbsp;·&nbsp; Läuft rund um die Uhr auf eigener Hardware (Hetzner, Linux, Docker), überlebt Neustarts, unabhängig vom Büro-PC.
+
+> Alles greift ineinander. Anklickbare Fallstudien im **[interaktiven CV](https://jasonroschmann.github.io/cv)**.
 
 ### Werkzeuge
 
@@ -43,7 +45,7 @@ Vier Jahre B2B-Direktvertrieb, rund 8.000 Gespräche mit Entscheidern. Danach de
 
 ### Wie ich arbeite
 
-**Verifikation vor Behauptung.** Nichts gilt als fertig, bevor die Tests grün sind und der echte Endpunkt oder Render wirklich stimmt. Viele kleine, prüfbare Teile statt einem großen ungetesteten Wurf. Muttersprache Deutsch, EU-Bürger, die Bewilligung B ist eine 14-Tage-Anmeldung.
+**Verifikation vor Behauptung.** Nichts gilt als fertig, bevor die Tests grün sind und der echte Endpunkt oder Render wirklich stimmt. Viele kleine, prüfbare Teile, die zu einem großen System zusammengreifen, statt einem ungetesteten Wurf. Muttersprache Deutsch, EU-Bürger, die Bewilligung B ist eine 14-Tage-Anmeldung.
 
 ---
 
