@@ -32,6 +32,17 @@ Komplette Systeme, keine Einzelteile. Web, Commerce, Content und KI-Automation a
 
 > Alles greift ineinander. Anklickbare Fallstudien im **[interaktiven CV](https://jasonroschmann.github.io/cv)**.
 
+<details>
+<summary><b>Wie das System zusammenhängt</b> &nbsp;·&nbsp; aufklappen</summary>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/pipeline-light.svg">
+    <img src="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/pipeline.svg" alt="Ende-zu-Ende-System: Recherche, Aufbau, Freigabe-Gate, Auslieferung, Tracking und Loop" width="100%">
+  </picture>
+</p>
+</details>
+
 ### Werkzeuge
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
