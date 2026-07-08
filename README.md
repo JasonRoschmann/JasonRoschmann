@@ -1,8 +1,7 @@
-<h1 align="center">Jason Roschmann</h1>
-
 <p align="center">
-  <b>Automation-Builder · Vertriebs-DNA</b><br>
-  Ich baue komplette KI-Systeme, die in Produktion laufen. Allein, Ende zu Ende.
+  <a href="https://jasonroschmann.github.io/cv">
+    <img src="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero.svg" alt="Jason Roschmann — Automation-Builder, ich baue komplette KI-Systeme, die in Produktion laufen" width="100%">
+  </a>
 </p>
 
 <p align="center">
