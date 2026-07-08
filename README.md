@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://jasonroschmann.github.io/cv">
-    <img src="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero.svg" alt="Jason Roschmann — Automation-Builder, ich baue komplette KI-Systeme, die in Produktion laufen" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero-light.svg">
+      <img src="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero.svg" alt="Jason Roschmann — Automation-Builder, ich baue komplette KI-Systeme, die in Produktion laufen" width="100%">
+    </picture>
   </a>
 </p>
 
