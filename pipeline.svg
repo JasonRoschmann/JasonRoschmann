@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Ein System, Ende zu Ende: Recherche, Aufbau, Freigabe-Gate, Auslieferung, Tracking und Loop">
+  <defs>
+    <linearGradient id="pconn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4c8dff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#4c8dff" stop-opacity="0.7"/>
+    </linearGradient>
+    <filter id="psoft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+    <style>
+      @keyframes prise { from{opacity:0;transform:translateY(14px);} to{opacity:1;transform:translateY(0);} }
+      .card{opacity:0;animation:prise .7s cubic-bezier(.16,1,.3,1) forwards;}
+      .c1{animation-delay:.05s}.c2{animation-delay:.20s}.c3{animation-delay:.35s}.c4{animation-delay:.50s}.c5{animation-delay:.65s}
+      .cap{opacity:0;animation:prise .7s ease .8s forwards;}
+      .lbl{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;}
+      .mono{font-family:'SFMono-Regular','Consolas','Courier New',monospace;}
+    </style>
+  </defs>
+
+  <text class="mono cap" x="90" y="46" font-size="14" letter-spacing="5" fill="#4c8dff">EIN SYSTEM &#183; ENDE ZU ENDE</text>
+
+  <!-- connectors with flowing dashes -->
+  <g stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="286" y1="154" x2="316" y2="154" stroke="url(#pconn)" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></line>
+    <line x1="512" y1="154" x2="542" y2="154" stroke="url(#pconn)" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></line>
+    <line x1="738" y1="154" x2="768" y2="154" stroke="url(#pconn)" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></line>
+    <line x1="964" y1="154" x2="994" y2="154" stroke="url(#pconn)" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="0.9s" repeatCount="indefinite"/></line>
+  </g>
+  <g fill="#6f9dff">
+    <polygon points="316,154 308,150 308,158"/><polygon points="542,154 534,150 534,158"/>
+    <polygon points="768,154 760,150 760,158"/><polygon points="994,154 986,150 986,158"/>
+  </g>
+
+  <!-- 01 Recherche -->
+  <g class="card c1">
+    <rect x="90" y="96" width="196" height="116" rx="14" fill="#111a2b" stroke="#26374f"/>
+    <text class="mono" x="108" y="126" font-size="12" letter-spacing="2" fill="#4c8dff">01</text>
+    <circle cx="256" cy="120" r="4" fill="#4c8dff"/>
+    <text class="lbl" x="108" y="160" font-size="16" font-weight="700" fill="#e6eefc">Recherche</text>
+    <text class="lbl" x="108" y="184" font-size="12.5" fill="#8ea3bd">Multi-Agenten,</text>
+    <text class="lbl" x="108" y="200" font-size="12.5" fill="#8ea3bd">faktengepr&#252;ft</text>
+  </g>
+  <!-- 02 Aufbau -->
+  <g class="card c2">
+    <rect x="316" y="96" width="196" height="116" rx="14" fill="#111a2b" stroke="#26374f"/>
+    <text class="mono" x="334" y="126" font-size="12" letter-spacing="2" fill="#4c8dff">02</text>
+    <circle cx="482" cy="120" r="4" fill="#4c8dff"/>
+    <text class="lbl" x="334" y="160" font-size="16" font-weight="700" fill="#e6eefc">Aufbau</text>
+    <text class="lbl" x="334" y="184" font-size="12.5" fill="#8ea3bd">Web &#183; Shopify</text>
+    <text class="lbl" x="334" y="200" font-size="12.5" fill="#8ea3bd">Content &#183; KI</text>
+  </g>
+  <!-- 03 Gate (Herzstück) -->
+  <g class="card c3">
+    <rect x="542" y="92" width="196" height="124" rx="14" fill="#0f1d33" stroke="#4c8dff" stroke-width="1.6"/>
+    <rect x="542" y="92" width="196" height="124" rx="14" fill="none" stroke="#4c8dff" stroke-width="1.6" opacity="0.6"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="2.6s" repeatCount="indefinite"/></rect>
+    <text class="mono" x="560" y="124" font-size="12" letter-spacing="2" fill="#7ab0ff">03</text>
+    <circle cx="708" cy="118" r="5" fill="#7ab0ff"><animate attributeName="r" values="5;7;5" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text class="lbl" x="560" y="160" font-size="16" font-weight="700" fill="#ffffff">Freigabe-Gate</text>
+    <text class="lbl" x="560" y="184" font-size="12.5" fill="#a9c4e8">Governance,</text>
+    <text class="lbl" x="560" y="200" font-size="12.5" fill="#a9c4e8">Mensch entscheidet</text>
+  </g>
+  <!-- 04 Auslieferung -->
+  <g class="card c4">
+    <rect x="768" y="96" width="196" height="116" rx="14" fill="#111a2b" stroke="#26374f"/>
+    <text class="mono" x="786" y="126" font-size="12" letter-spacing="2" fill="#4c8dff">04</text>
+    <circle cx="934" cy="120" r="4" fill="#4c8dff"/>
+    <text class="lbl" x="786" y="160" font-size="16" font-weight="700" fill="#e6eefc">Auslieferung</text>
+    <text class="lbl" x="786" y="184" font-size="12.5" fill="#8ea3bd">automatisiert,</text>
+    <text class="lbl" x="786" y="200" font-size="12.5" fill="#8ea3bd">gedrosselt</text>
+  </g>
+  <!-- 05 Loop -->
+  <g class="card c5">
+    <rect x="994" y="96" width="196" height="116" rx="14" fill="#111a2b" stroke="#26374f"/>
+    <text class="mono" x="1012" y="126" font-size="12" letter-spacing="2" fill="#4c8dff">05</text>
+    <circle cx="1160" cy="120" r="4" fill="#4c8dff"/>
+    <text class="lbl" x="1012" y="160" font-size="16" font-weight="700" fill="#e6eefc">Tracking &amp; Loop</text>
+    <text class="lbl" x="1012" y="184" font-size="12.5" fill="#8ea3bd">misst, lernt,</text>
+    <text class="lbl" x="1012" y="200" font-size="12.5" fill="#8ea3bd">fasst nach</text>
+  </g>
+
+  <text class="lbl cap" x="90" y="256" font-size="14.5" fill="#7d92a8">Ich spezifiziere, baue die Architektur, orchestriere die Modelle und pr&#252;fe selbst. Der Mensch bleibt das Gate.</text>
+</svg>
