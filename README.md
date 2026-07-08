@@ -35,7 +35,7 @@ Komplette Systeme, keine Einzelteile. Web, Commerce, Content und KI-Automation a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1a1a1a?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6E40C9?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white)
