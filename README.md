@@ -19,7 +19,7 @@
 
 ### Wer ich bin
 
-Vier Jahre B2B-Direktvertrieb, täglich Gespräche mit Entscheidern, über 200 Abschlüsse im Monat. Danach der Wechsel ans Bauen. Seit 2024 entwickle ich eigenständig große, zusammenhängende KI-Systeme und bringe sie in Produktion: Ich spezifiziere, entwerfe die Architektur, orchestriere die Modelle und prüfe das Ergebnis selbst. So liefere ich allein, wofür sonst ein kleines Team nötig wäre, und kann jedes System nicht nur bauen, sondern beim Kunden auch aufnehmen und erklären.
+Vier Jahre B2B-Direktvertrieb, täglich Gespräche mit Entscheidern, Monat für Monat vorn bei den Abschlüssen. Danach der Wechsel ans Bauen. Seit 2024 entwickle ich eigenständig große, zusammenhängende KI-Systeme und bringe sie in Produktion: Ich spezifiziere, entwerfe die Architektur, orchestriere die Modelle und prüfe das Ergebnis selbst. So liefere ich allein, wofür sonst ein kleines Team nötig wäre, und kann jedes System nicht nur bauen, sondern beim Kunden auch aufnehmen und erklären.
 
 ### `~ $ ls systeme/` &nbsp;— live oder in Produktion
 
