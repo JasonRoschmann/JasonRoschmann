@@ -25,7 +25,7 @@ Vier Jahre B2B-Direktvertrieb, täglich Gespräche mit Entscheidern, Monat für 
 
 | System | Was es ist | Status |
 |:--|:--|:--|
-| **[flowki.club](https://flowki.club)** | Deutschsprachiges KI-Security-Magazin · Next.js · self-hosted · Community + Pro-Tier | `🟢 live` |
+| **[flowki-club.de](https://flowki-club.de)** | Deutschsprachiges KI-Security-Magazin · Next.js · self-hosted · Community + Pro-Tier | `🟢 live` |
 | **Self-Serve Website-Fabrik** | Baut aus echten Firmendaten eine fertige Seite und schaltet per Stripe live — kein Mensch dazwischen | `⚙ autonom` |
 | **Bewerbungs-Fabrik** | Multi-Agent: findet Stellen, schreibt jede Bewerbung, prüft fail-closed gegen die Quelle, reicht autonom ein | `🔁 24/7` |
 | **[DK · Attar](https://duftkumpels.shop)** | Luxus-Nischenparfum · eigenes Shopify-Theme · kinoreife Web-Experience | `🛒 live` |
