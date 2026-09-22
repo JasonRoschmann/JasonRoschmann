@@ -2,7 +2,7 @@
   <a href="https://jasonroschmann.github.io/cv">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero-light.svg">
-      <img src="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero.svg" alt="Jason Roschmann — Automation-Builder, ich baue komplette KI-Systeme, die in Produktion laufen" width="100%">
+      <img src="https://raw.githubusercontent.com/JasonRoschmann/JasonRoschmann/main/hero.svg" alt="Jason Roschmann — Automation-Builder, ich baue komplette KI-Systeme, die im Betrieb laufen" width="100%">
     </picture>
   </a>
 </p>
@@ -11,7 +11,7 @@
   <a href="https://jasonroschmann.github.io/cv">
     <img src="https://img.shields.io/badge/Interaktives_CV-ansehen-0b5cad?style=for-the-badge&logo=readme&logoColor=white" alt="Interaktives CV">
   </a>
-  <img src="https://img.shields.io/badge/Hamburg_→_Zürich-verfügbar-1a7f4b?style=for-the-badge" alt="Verfügbar für Zürich">
+  <img src="https://img.shields.io/badge/Hamburg_·_remote-verfügbar-1a7f4b?style=for-the-badge" alt="Verfügbar remote oder Hamburg">
   <img src="https://img.shields.io/badge/EU_·_Bewilligung_B-14_Tage_Anmeldung-3fdc84?style=for-the-badge" alt="EU-Bürger, Bewilligung B">
 </p>
 
@@ -19,15 +19,15 @@
 
 ### Wer ich bin
 
-Vier Jahre B2B-Direktvertrieb, täglich Gespräche mit Entscheidern, Monat für Monat vorn bei den Abschlüssen. Danach der Wechsel ans Bauen. Seit 2024 entwickle ich eigenständig große, zusammenhängende KI-Systeme und bringe sie in Produktion: Ich spezifiziere, entwerfe die Architektur, orchestriere die Modelle und prüfe das Ergebnis selbst. So liefere ich allein, wofür sonst ein kleines Team nötig wäre, und kann jedes System nicht nur bauen, sondern beim Kunden auch aufnehmen und erklären.
+Seit 2024 entwickle ich eigenständig große, zusammenhängende KI-Systeme und nehme sie in Betrieb: Ich spezifiziere, entwerfe die Architektur, orchestriere die Modelle und prüfe das Ergebnis selbst. So liefere ich allein, wofür sonst ein kleines Team nötig wäre, und kann jedes System nicht nur bauen, sondern auch erklären und übergeben.
 
-### `~ $ ls systeme/` &nbsp;— live oder in Produktion
+### `~ $ ls systeme/` &nbsp;— live oder im Betrieb
 
 | System | Was es ist | Status |
 |:--|:--|:--|
-| **[flowki-club.de](https://flowki-club.de)** | Deutschsprachiges KI-Security-Magazin · Next.js · self-hosted · Community + Pro-Tier | `🟢 live` |
+| **[flowki-club.de](https://flowki-club.de)** | Deutschsprachiges KI-Security-Magazin · Next.js · self-hosted · Community + Pro-Tier · Teamprojekt | `🟢 live` |
 | **Self-Serve Website-Fabrik** | Baut aus echten Firmendaten eine fertige Seite und schaltet per Stripe live — kein Mensch dazwischen | `⚙ autonom` |
-| **Bewerbungs-Fabrik** | Multi-Agent: findet Stellen, schreibt jede Bewerbung, prüft fail-closed gegen die Quelle, reicht autonom ein | `🔁 24/7` |
+| **Bewerbungs-Fabrik** | Multi-Agent: findet Stellen, prüft jede Faktenzeile fail-closed gegen die Quelle und legt die Bewerbung versandfertig zur Freigabe vor | `⏸ im Aufbau` |
 | **[DK · Attar](https://duftkumpels.shop)** | Luxus-Nischenparfum · eigenes Shopify-Theme · kinoreife Web-Experience | `🛒 live` |
 | **Ultra Nexus OS** | Die Ebene, die alles orchestriert — geteiltes Gedächtnis, harte Freigabe-Gates | `👑 meta` |
 
