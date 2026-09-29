@@ -18,7 +18,7 @@ Ich verbinde Suchdaten, Shop-Entwicklung und Automatisierung und prüfe Änderun
 | Projekt | Rahmen | Mein Beitrag |
 |:--|:--|:--|
 | **[duftkumpels.shop](https://duftkumpels.shop)** · Shopify, DE/EN/FR | Kundenprojekt, seit Juni 2026 | Search-Console-Auswertung automatisiert, Indexierungsstatus von 700 URLs geprüft, Themenindex für 128 Artikel, strukturierte Daten (JSON-LD), Klaviyo-Flows, Merchant Center |
-| **[FlowKI Club](https://flowki-club.de)** · Magazin & KI-Community | Teamprojekt, Juli–Aug 2026 | Newsletter mit Double-Opt-In und Plausible-Events, Social-Distribution mit UTM-Konvention, Autorenprofile und FAQ-/HowTo-Daten |
+| **[FlowKI Club](https://flowki-club.de)** · Magazin & KI-Community | Teamprojekt, Juli–Aug. 2026 | Newsletter mit Double-Opt-In und Plausible-Events, Social-Distribution mit UTM-Konvention, Autorenprofile und FAQ-/HowTo-Daten |
 | **Flowki Studio** · Clip-Studio | Teamprojekt, 50 eigene PRs gemergt | Shorts aus Langvideos, bei denen der Ausschnitt der sprechenden Person folgt; Freigabe-Oberflächen; Publikationsrechte unmittelbar vor dem Versand erneut geprüft |
 | **KI-gestützte Bewerbungsverwaltung** · Python auf eigenem Linux-Server | Eigenprojekt, seit Juli 2026 | Stellensuche, Anschreiben mit Prüfungen gegen Profilfakten und Versandkontrolle über ein Hauptbuch für Erstbewerbungen |
 
