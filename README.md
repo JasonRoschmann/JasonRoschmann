@@ -22,7 +22,7 @@ Ich verbinde Suchdaten, Shop-Entwicklung und Automatisierung und prüfe Änderun
 | **Flowki Studio** · internes Social-Media-Studio | Teamprojekt, seit Aug. 2026 · <!--pr:flowki-->50<!--/pr--> eigene PRs gemergt | Produktions-, Freigabe- und Veröffentlichungsansichten; Ablehnungsgründe von der Oberfläche bis ins Freigabeprotokoll; Erfolg von Folgefehlern getrennt; Hochformat-Clips aus Langvideos; TikTok-Entwurfsweg |
 | **KI-gestützte Bewerbungsverwaltung** · Python auf eigenem Linux-Server | Eigenprojekt, seit Juli 2026 | Stellensuche, Anschreiben mit Prüfungen gegen Profilfakten und Versandkontrolle über ein Hauptbuch für Erstbewerbungen |
 
-<!--pr-zeile-->**59 gemergte Pull Requests** seit Aug. 2026 (Flowki Studio 50 · eigene Repos 6 · Kundenprojekte 3) · Stand 29.09.2026, täglich automatisch gezählt – [Methodik](https://github.com/JasonRoschmann/cv#wie-die-pr-zahl-entsteht)<!--/pr-zeile-->
+<!--pr-zeile-->**61 gemergte Pull Requests** seit Aug. 2026 (Flowki Studio 50 · eigene Repos 8 · Kundenprojekte 3) · Stand 29.09.2026, täglich automatisch gezählt – [Methodik](https://github.com/JasonRoschmann/cv#wie-die-pr-zahl-entsteht)<!--/pr-zeile-->
 
 ### Werkzeuge
 
