@@ -19,8 +19,10 @@ Ich verbinde Suchdaten, Shop-Entwicklung und Automatisierung und prüfe Änderun
 |:--|:--|:--|
 | **[duftkumpels.shop](https://duftkumpels.shop)** · Shopify, DE/EN/FR | Kundenprojekt, seit Juni 2026 | Search-Console-Auswertung automatisiert, Indexierungsstatus von 700 URLs geprüft, Themenindex für 128 Artikel, strukturierte Daten (JSON-LD), Klaviyo-Flows, Merchant Center |
 | **FlowKI Club** · KI-Community & Magazin | Mitgründer, seit Apr. 2026 · rund 66 Discord-Mitglieder (Stand 29.09.2026) | Mitglieder gewonnen und beim Einstieg begleitet, Online-Calls organisiert und moderiert, bei Projekten unterstützt; der Club dient auch der Anbahnung potenzieller Kundenaufträge. Technisch: Newsletter mit Double-Opt-In, Plausible-Ereignisse, Social-Distribution, Discord-Bot mit /ask und Themenrollen |
-| **Flowki Studio** · internes Social-Media-Studio | Teamprojekt, seit Aug. 2026 · 50 eigene PRs gemergt | Produktions-, Freigabe- und Veröffentlichungsansichten; Ablehnungsgründe von der Oberfläche bis ins Freigabeprotokoll; Erfolg von Folgefehlern getrennt; Hochformat-Clips aus Langvideos; TikTok-Entwurfsweg |
+| **Flowki Studio** · internes Social-Media-Studio | Teamprojekt, seit Aug. 2026 · <!--pr:flowki-->50<!--/pr--> eigene PRs gemergt | Produktions-, Freigabe- und Veröffentlichungsansichten; Ablehnungsgründe von der Oberfläche bis ins Freigabeprotokoll; Erfolg von Folgefehlern getrennt; Hochformat-Clips aus Langvideos; TikTok-Entwurfsweg |
 | **KI-gestützte Bewerbungsverwaltung** · Python auf eigenem Linux-Server | Eigenprojekt, seit Juli 2026 | Stellensuche, Anschreiben mit Prüfungen gegen Profilfakten und Versandkontrolle über ein Hauptbuch für Erstbewerbungen |
+
+<!--pr-zeile-->**59 gemergte Pull Requests** seit Aug. 2026 (Flowki Studio 50 · eigene Repos 6 · Kundenprojekte 3) · Stand 29.09.2026, täglich automatisch gezählt – [Methodik](https://github.com/JasonRoschmann/cv#wie-die-pr-zahl-entsteht)<!--/pr-zeile-->
 
 ### Werkzeuge
 
