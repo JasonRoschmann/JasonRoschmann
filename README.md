@@ -11,7 +11,7 @@
 
 Ich verbinde Suchdaten, Shop-Entwicklung und Automatisierung und prüfe Änderungen am tatsächlichen System. Seit Juni 2026 betreue ich einen dreisprachigen Shopify-Shop technisch und im Marketing; davor vier Jahre B2B-Direktvertrieb mit täglichem Kundenkontakt.
 
-**→ [Interaktiver Lebenslauf](https://jasonroschmann.github.io/cv)** · [LinkedIn](https://www.linkedin.com/in/jason-roschmann-1091512b2) · [jason@roschmann-digital.de](mailto:jason@roschmann-digital.de)
+**→ [Interaktiver Lebenslauf](https://jasonroschmann.github.io/cv)** · [Belegmappe: drei Shop-Fälle (PDF)](https://jasonroschmann.github.io/cv/Jason_Roschmann_Belegmappe.pdf) · [LinkedIn](https://www.linkedin.com/in/jason-roschmann-1091512b2) · [jason@roschmann-digital.de](mailto:jason@roschmann-digital.de)
 
 ### Ausgewählte Arbeit
 
