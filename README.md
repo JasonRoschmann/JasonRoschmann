@@ -7,7 +7,7 @@
   </a>
 </p>
 
-**E-Commerce & Technical SEO · Shopify · Marketing- und KI-Automation** – freiberuflich, Hamburg oder remote, Umzug nach Zürich möglich.
+**E-Commerce & Technical SEO · Shopify · Marketing- und KI-Automation** – freiberuflich, remote oder vor Ort in Zürich (Umzug nach Zürich möglich).
 
 Ich mache Shopify-Shops fit für Suche, Mehrsprachigkeit und Nachfassen – sauber umgesetzt, ehrlich gemessen. Freiberuflich seit 2024: Seit Juni 2026 betreue ich einen dreisprachigen Shopify-Shop technisch und im Marketing, im Team des internen KI-Content-Studios Flowki Studio entwickle ich Workflows mit Freigaben. Als Mitgründer baue ich die KI-Community FlowKI Club mit auf. Davor vier Jahre B2B-Direktvertrieb mit Inhabern und Geschäftsführern.
 
